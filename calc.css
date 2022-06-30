@@ -1,0 +1,9 @@
+#calc{
+    width: 400px;
+    background-color: rgb(240, 215, 49);
+    margin: 0 auto;
+    text-align: center;
+}
+#display{
+    padding: 5px;
+}
